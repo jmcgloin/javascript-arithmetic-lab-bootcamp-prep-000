@@ -1,7 +1,7 @@
 function add( x, y ) {
-  return parseInt(x) +parseInt(y);
+  return x + y;
 }
 
 function subtract( x, y ) {
-  return parseInt
+  return x - y
 }
