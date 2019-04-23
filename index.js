@@ -1,1 +1,1 @@
-console.log(parseFloat('2.222', 2));
+console.log(parseFloat('2.222'));
