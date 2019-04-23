@@ -1,1 +1,3 @@
-console.log(parseFloat('2.222'));
+function add( x, y ) {
+  return parseInt(x) +parseInt(y);
+}
