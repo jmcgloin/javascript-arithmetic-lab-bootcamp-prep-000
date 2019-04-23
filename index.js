@@ -1,3 +1,7 @@
 function add( x, y ) {
   return parseInt(x) +parseInt(y);
 }
+
+function subtract( x, y ) {
+  return parseInt
+}
